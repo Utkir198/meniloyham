@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 body{
-    background-color: blueviolet;
+    background-color: rgb(43, 220, 226);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 ul{
+    color: white;
     list-style: none;
     display: flex;
     justify-content: center;
